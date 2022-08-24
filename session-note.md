@@ -12,6 +12,3 @@
 | git branch < name >         | create new git branch         |
 | git branch                  | shows git branches            |
 | git branch -d < name >      | delte git branch              |
-
-This is a new change
-a new change
